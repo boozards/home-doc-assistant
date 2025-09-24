@@ -80,3 +80,4 @@ if you want to run the app without dockerization( recommended  only for MacOs an
 
                                             
 # home-doc-assistant
+# home-doc-assistant
